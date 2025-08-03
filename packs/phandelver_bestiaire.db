@@ -1,0 +1,245 @@
+{
+  "name": "Phandelver_FR_Bestiaire",
+  "type": "JournalEntry",
+  "system": "dnd5e",
+  "entries": [
+    {
+      "_id": "c39de14f-6484-4a26-83c2-0060a6065149",
+      "name": "Monstre Gobelin",
+      "folder": "Bestiaire",
+      "sort": 0,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Gobelin\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "8496dcca-610f-48f6-8d21-d5a6bd65159d",
+      "name": "Monstre Loup",
+      "folder": "Bestiaire",
+      "sort": 1,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Loup\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "7b6f5664-df2b-4785-85f9-b68eadb2a516",
+      "name": "Monstre Gobelours",
+      "folder": "Bestiaire",
+      "sort": 2,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Gobelours\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "0b9b9d89-2a0c-48cd-ab8f-23a46d4bfb6b",
+      "name": "Monstre Orc",
+      "folder": "Bestiaire",
+      "sort": 3,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Orc\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "3153dc0f-e26b-4abc-ac69-8d1aa4115d88",
+      "name": "Monstre Chef Cragmaw",
+      "folder": "Bestiaire",
+      "sort": 4,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Chef Cragmaw\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "fcd57a20-65df-4f03-8629-ac9f1043082c",
+      "name": "Monstre Zombie",
+      "folder": "Bestiaire",
+      "sort": 5,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Zombie\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "a10f0997-baed-47dc-b127-67b6f073536f",
+      "name": "Monstre Squelette",
+      "folder": "Bestiaire",
+      "sort": 6,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Squelette\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "d2b5f83e-2645-4280-8942-a8c6ddc5db30",
+      "name": "Monstre Stirge",
+      "folder": "Bestiaire",
+      "sort": 7,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Stirge\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "733533b6-10fd-422d-90ed-4c62902aef79",
+      "name": "Monstre Nuée de rats",
+      "folder": "Bestiaire",
+      "sort": 8,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Nuée de rats\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "3f5d2024-c757-43ba-8fde-cc664051341b",
+      "name": "Monstre Nothic",
+      "folder": "Bestiaire",
+      "sort": 9,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Nothic\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "6c2036cc-87be-4abc-8195-ac0ed9b4a0d5",
+      "name": "Monstre Nezznar",
+      "folder": "Bestiaire",
+      "sort": 10,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Nezznar\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "3ce672a5-f25f-4d0d-b5c1-4353bf7acdc2",
+      "name": "Monstre Spectateur",
+      "folder": "Bestiaire",
+      "sort": 11,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Spectateur\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "ef4b15e1-119e-4991-9cf0-894a0da3755d",
+      "name": "Monstre Jeune dragon vert",
+      "folder": "Bestiaire",
+      "sort": 12,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Jeune dragon vert\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    },
+    {
+      "_id": "17240b31-af37-47e3-b374-e86a62de0c0d",
+      "name": "Monstre Araignée géante",
+      "folder": "Bestiaire",
+      "sort": 13,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Statblock",
+          "type": "text",
+          "text": {
+            "content": "**Nom :** Araignée géante\n\n*Statblock à compléter ou à importer selon votre système.*",
+            "format": 1
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "phandelver-fr-aventure-complet",
+  "title": "phandelver-fr-aventure-complet",
+  "description": "Aventure complète de La Mine Oubliée de Phancreux, avec journaux d'aventure liés et bestiaire statblock uniquement.",
+  "version": "1.0.0",
+  "author": "Conversion par ChatGPT",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "systems": [
+    "dnd5e"
+  ],
+  "packs": [
+    {
+      "name": "phandelver-aventure-liens",
+      "label": "Phandelver FR - Aventure avec Liens",
+      "path": "packs/phandelver_aventure_avec_liens.db",
+      "type": "JournalEntry",
+      "system": "dnd5e"
+    },
+    {
+      "name": "phandelver-bestiaire",
+      "label": "Phandelver FR - Bestiaire (Statblocks)",
+      "path": "packs/phandelver_bestiaire.db",
+      "type": "JournalEntry",
+      "system": "dnd5e"
+    }
+  ]
+}
