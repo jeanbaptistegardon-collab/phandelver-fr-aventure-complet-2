@@ -1,14 +1,15 @@
 {
+  "id": "phandelver-fr-aventure-complet",
   "name": "phandelver-fr-aventure-complet",
-  "title": "phandelver-fr-aventure-complet",
-  "description": "Aventure complète de La Mine Oubliée de Phancreux, avec journaux d'aventure liés et bestiaire statblock uniquement.",
+  "title": "Phandelver FR - Aventure Complète (sans images)",
+  "description": "Aventure complète de La Mine Oubliée de Phancreux, avec journaux liés et bestiaire. Version allégée sans illustrations.",
   "version": "1.0.0",
   "author": "Conversion par ChatGPT",
   "minimumCoreVersion": "13",
   "compatibleCoreVersion": "13",
-  "systems": [
-    "dnd5e"
-  ],
+  "systems": ["dnd5e"],
+  "manifest": "https://raw.githubusercontent.com/jeanbaptistegardon-collab/phandelver-fr-aventure-complet-2/main/module.json",
+  "download": "https://github.com/jeanbaptistegardon-collab/phandelver-fr-aventure-complet-2/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "phandelver-aventure-liens",
